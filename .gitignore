@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+.streamlit/secrets.toml
+*.egg-info/
+work/
+data/*
+!data/landing/
+!data/landing/orders/
+!data/landing/orders/sample_orders.csv
